@@ -1,1 +1,0 @@
-{"import_link": "import H.Apps.Terminal._cmd_ as _cmd_", "image": "self.TERMINAL = IMG(r'H\\Apps\\Terminal\\Terminal.png',self.CANVAS)", "FILES": "", "import_line": "self.ges.add('Terminal',lambda master:_cmd_.CMD(master,self.session.path,self.session.path),self.TERMINAL)"}
